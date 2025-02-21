@@ -1,10 +1,10 @@
-const inquirer = require("inquirer");
-const pool = require("./db/connection");
+import inquirer from "inquirer";
+
+const pool = require("../db/connection.js");
 const consoleTable = require("console.table");
 
 function mainMenu() {
-  inquirer
-    .prompt([
+  inquirer.default.prompt([
       {
         type: "list",
         name: "choice",
