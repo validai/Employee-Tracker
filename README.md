@@ -11,6 +11,7 @@ The **Employee Tracker** is a command-line application that allows users to mana
 - [Database Schema](#database-schema)
 - [Future Enhancements](#future-enhancements)
 - [License](#license)
+- [Walkthrough Video Link](#video-link)
 
 ---
 
@@ -117,4 +118,7 @@ The application consists of three main tables:
 This project is licensed under the **MIT License**.
 
 
+---
 
+## Video Link
+https://www.loom.com/share/9dcf84ab552b457c824ad320cdbac426?sid=eac6536c-d803-4eae-ad81-c5b0613618ee
